@@ -74,9 +74,3 @@ Demand forecasting system for small bakeries using time-series analysis and ML.
 ---
 
 
-
-⭐️ From [Saimudragada](https://github.com/Saimudragada)
-```
-
----
-
