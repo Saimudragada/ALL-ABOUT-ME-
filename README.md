@@ -73,7 +73,7 @@ Demand forecasting system for small bakeries using time-series analysis and ML.
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Saimudragada&color=blueviolet)
+
 
 ⭐️ From [Saimudragada](https://github.com/Saimudragada)
 ```
